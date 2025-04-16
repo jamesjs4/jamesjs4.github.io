@@ -2,6 +2,11 @@
 layout: default
 permalink: /
 title: UFO Sightings Visualization
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
 ---
 ## UFO Sightings Visualizations
 
